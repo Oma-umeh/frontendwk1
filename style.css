@@ -1,0 +1,17 @@
+h1{
+    background-color: aqua;
+}
+
+section p{
+    color: darkblue;background-color: cadetblue;
+}
+
+body{
+    background-color: darkmagenta;
+}
+ul li{
+    color: aliceblue;
+}
+ol li{
+    color: aliceblue;
+}
